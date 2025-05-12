@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/upi-receiver/static/css/main.49e620a1.css",
+    "main.js": "/upi-receiver/static/js/main.2b8972dc.js",
+    "static/js/453.591ff908.chunk.js": "/upi-receiver/static/js/453.591ff908.chunk.js",
+    "index.html": "/upi-receiver/index.html",
+    "main.49e620a1.css.map": "/upi-receiver/static/css/main.49e620a1.css.map",
+    "main.2b8972dc.js.map": "/upi-receiver/static/js/main.2b8972dc.js.map",
+    "453.591ff908.chunk.js.map": "/upi-receiver/static/js/453.591ff908.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49e620a1.css",
+    "static/js/main.2b8972dc.js"
+  ]
+}
